@@ -1,6 +1,6 @@
 "syed hafeez"
 'syed hafeez'
-`syed hafeez`
+`syed sameer`
 
 "iam from \"guntur \""
 
@@ -8,6 +8,6 @@
 city:guntur
 designation:ui dev
 `
-`326 multiply with 456 is ${326*456}`
+`326 multiply with 456 is ${326*455}`
 
 
