@@ -1,0 +1,16 @@
+{
+    "name": "syed hafeez",
+    "location": "guntur",
+    "married": true,
+    "workingdays": 6,
+    "skills": [
+        "html",
+        "css",
+        "java"
+    ],
+    "companyInfo": {
+        "name": "sap",
+        "position": "devolaper"
+
+    }
+}
