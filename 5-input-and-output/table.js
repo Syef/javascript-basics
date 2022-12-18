@@ -1,18 +1,17 @@
 const readline = require("readline-sync");
 console.log("table generator");
 
-const table number = readline.question("enter number to generate to number table:");
+const tableNumber = readline.question("enter number to generate to number table:");
 
 console.log("******************");
-console.log(`${table number} x 1 = ${table number*1}`);
-console.log(`${table number} x 2 = ${table number*2}`);
-console.log(`${table number} x 3 = ${table number*3}`);
-console.log(`${table number} x 4 = ${table number*4}`);
-console.log(`${table number} x 5 = ${table number*5}`);
-console.log(`${table number} x 6 = ${table number*6}`);
-console.log(`${table number} x 7 = ${table number*7}`);
-console.log(`${table number} x 8 = ${table number*8}`);
-console.log(`${table number} x 9 = ${table number*9}`);
-console.log(`${table number} x 10 = ${table number*10}`);
+console.log(`${tableNumber} x 1 = ${tableNumber*1}`);
+console.log(`${tableNumber} x 2 = ${tableNumber*2}`);
+console.log(`${tableNumber} x 3 = ${tableNumber*3}`);
+console.log(`${tableNumber} x 4 = ${tableNumber*4}`);
+console.log(`${tableNumber} x 5 = ${tableNumber*5}`);
+console.log(`${tableNumber} x 6 = ${tableNumber*6}`);
+console.log(`${tableNumber} x 7 = ${tableNumber*7}`);
+console.log(`${tableNumber} x 8 = ${tableNumber*8}`);
+console.log(`${tableNumber} x 9 = ${tableNumber*9}`);
+console.log(`${tableNumber} x 10 = ${tableNumber*10`});
 console.log("******************");
-
