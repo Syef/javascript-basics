@@ -27,7 +27,7 @@ excute(addition,multiply);//?
         },
     );
 // { valueOne: 200, valueTwo: 100}
-// execute( () => {teturn 20*10},() => {return 56+44} );
+// execute( () => {return 20*10},() => {return 56+44} );
 
 console.log(anotherresult);//? 
 {  valueOne: 185, valueTwo: 298,452};
