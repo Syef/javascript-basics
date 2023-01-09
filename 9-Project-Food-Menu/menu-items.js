@@ -26,8 +26,8 @@ const BEVERAGE_ITEMS = [
 const FOOD_ITEMS = {
     'VEG': VEG_ITEMS,
     'Non-Veg' : NON_VEG_ITEMS,
-    'Deserts' : DESERT_items,
-    'Beverages' : BEVERAGES_ITEMS
+    'Deserts' : DESERT_ITEM,
+    'Beverages' : BEVERAGE_ITEMS
 }
 
 export function showMenuItems(category) {

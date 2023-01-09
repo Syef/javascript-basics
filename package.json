@@ -1,0 +1,25 @@
+{
+  "name": "javascript-training",
+  "version": "1.0.0",
+  "main": "6-user-name.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syef/javascript-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syef/javascript-basics/issues"
+  },
+  "homepage": "https://github.com/Syef/javascript-basics#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module",
+  
+  "description": ""
+}
