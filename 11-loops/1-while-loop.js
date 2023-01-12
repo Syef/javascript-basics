@@ -20,7 +20,6 @@ while (currentNumber <=
     endingNumber) {
         console.log(`CurrentNumber is 
         ${currentNumber} `);
-        currentNumber = currentNumber + 
-        1; //Updating the number
+        currentNumber = currentNumber + 1; //Updating the number
     }
 

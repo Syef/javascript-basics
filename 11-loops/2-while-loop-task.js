@@ -9,10 +9,8 @@ readline.questionInt("please define your end number = ");
 while(start <= end) {
     const total = currentTable * start;
     const statement = 
-    `${currentTable} x ${start} =$ {total}`
+    `${currentTable} x ${start} =${total}`
     console.log(statement);
-
-    // console.log(`${currentTable} x
-   // ${start} = ${currentTable * start}`);
+   // console.log(`${currentTable} x ${start} = ${currentTable * start}`);
     start++; // start = start + 1;
 }
