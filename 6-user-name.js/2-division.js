@@ -8,4 +8,4 @@ console.log(`value of ${a} is ${typeof a}`);
 console.log(`value of ${b} is ${typeof b}`);
 const sum = a/b;
 
-console.log(`sum of ${a} division ${b} = ${sum}`);
+console.log(Data.length)
