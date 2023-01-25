@@ -93,7 +93,10 @@ const first_student = all_students.shift();
 console.log(first_student);
 console.log(all_students)
 
-const last_student = all_students.pop();
+const last_student = all_students.pop(); 
 console.log(last_student);
-console.log(all_students);
+console.log(all_students); //[ 'syed', 'Hafeez', 'ashra', 'zakeer' ]
 
+const delate_students = all_students.splice(2, 1); // ['apsar'];
+console.log(delate_students);
+console.log(all_students); // [ 'syed', 'Hafeez', 'zakeer' ]
