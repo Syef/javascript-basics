@@ -2,8 +2,8 @@
 
 fetch data from fakeStoreApi
 
--[https://fakestoreapi.com/products/categories](categories)
--[https://fakestoreapi.com/products](products)
+- [https://fakestoreapi.com/products/categories](categories)
+- [https://fakestoreapi.com/products](products)
 
 
 ### json viewer extension
